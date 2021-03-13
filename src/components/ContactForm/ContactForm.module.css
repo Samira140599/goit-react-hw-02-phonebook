@@ -34,5 +34,4 @@
 .button__submitForm:focus {
   cursor: pointer;
   background: green;
-  color: white;
 }
