@@ -1,0 +1,38 @@
+.contact__info {
+  display: flex;
+  margin-bottom: 10px;
+  align-self: center;
+  justify-content: space-between;
+}
+
+.contacts__list {
+  padding: 0;
+}
+
+.contact {
+  font-size: 18px;
+  margin: 0;
+}
+
+.contact__name {
+  font-size: 20px;
+  color: red;
+  margin-right: 10px;
+}
+
+.contact__number {
+  color: blue;
+}
+
+.contact__button {
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+}
+
+.contact__button:hover,
+.contact__button:focus {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+}

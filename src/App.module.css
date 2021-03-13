@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+}
+
+.title {
+  text-align: center;
+}
+
+.contacts__title {
+  text-align: center;
+}
